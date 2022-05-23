@@ -6,6 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199087607611/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gian-emanuel-50461a228/)
+![Snake animation](https://github.com/Gian-Emanuel-da-Silva/Gian-Emanuel-da-Silva/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -18,6 +19,6 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
-  ![Snake animation](https://github.com/maurocesarj/maurocesarj/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
