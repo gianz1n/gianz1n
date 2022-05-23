@@ -11,7 +11,7 @@
 
 ![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-Emanuel-da-Silva&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu utilizo atulamente:
+## Tecnologias que eu utilizo atualmente:
 
 <div style="diplay: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
