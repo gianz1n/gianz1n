@@ -9,7 +9,7 @@
 
 
 
-![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-Emanuel-da-Silva&show_icons=true&theme=tokyonight)
+![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=gianz1n&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu utilizo atualmente:
 
