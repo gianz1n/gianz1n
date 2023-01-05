@@ -35,5 +35,11 @@
 <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<div align="center">
+<br><p align="center"><b>VISITORS COUNT</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gianz1n}/count.svg"/></p>
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E41A6&height=120&section=footer"/>
 
