@@ -2,16 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=950&lines=HELLO,+MY+NAME+IS+GIAN+EMANUEL;I'M+18+YEARS+OLD;+WELCOME+TO+MY+PROFILE!&color=FFFFFF)](https://git.io/typing-svg)
 
-### OTHER KNOWLEDGE:
-![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### TOOLS:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
 ### STUDYING:
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
