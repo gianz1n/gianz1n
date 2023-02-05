@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=950&lines=HELLO,+MY+NAME+IS+GIAN+EMANUEL;I'M+18+YEARS+OLD;+WELCOME+TO+MY+PROFILE!&color=FFFFFF)](https://git.io/typing-svg)
 
-### MAIN SKILLS:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
 ### OTHER KNOWLEDGE:
 ![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
