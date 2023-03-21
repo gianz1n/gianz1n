@@ -1,18 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E41A6&height=105&section=header&text=&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=46" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=950&lines=HELLO,+MY+NAME+IS+GIAN+EMANUEL;I'M+18+YEARS+OLD;+WELCOME+TO+MY+PROFILE!&color=FFFFFF)](https://git.io/typing-svg)
-
-### STUDYING:
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### CONTACT METHOD:
-<div>
-<a href = "https://www.instagram.com/gzn3zy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "https://www.linkedin.com/in/gian-emanuel-6a67b424b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 
 <div align="center">
 <br><p align="center"><b>VISITORS COUNT</b></p>
@@ -20,5 +6,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E41A6&height=120&section=footer"/>
 
