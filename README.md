@@ -1,5 +1,5 @@
 <h1 align="center">SEJA BEM-VINDO!</h1>
-<h3 align="center">Formado em Técnico em ADS | Trabalhando atualmente com Suporte de T.I.</h3>
+<h3 align="center">Formação: Técnico em ADS | Trabalhando atualmente com Suporte de T.I.</h3>
 
 <p align="left">
 </p>
